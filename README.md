@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technoyloquesurja&label=Profile%20views&color=0e75b6&style=flat" alt="technoyloquesurja" /> </p>
 
-- ⚡ **Check out my latest project**:
+- ⚡ **Check out my latest projects**:
 
 1. [CanceRClassif](https://github.com/estebancalle/Cancerclassif)
 Webapp for Cancer Classification. Classify RNA-Seq samples of your patients, at a binary level: Tumors or Normals and at a multiclass level: distinguish between 15 different types of cancer included in TCGA database.
