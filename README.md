@@ -1,23 +1,44 @@
 <h1 align="center">Hi 👋, I'm Esteban Calle</h1>
 <h3 align="center">Data Scientist and Bioinformatician from Madrid, Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=technoyloquesurja&label=Profile%20views&color=0e75b6&style=flat" alt="technoyloquesurja" /> </p>
+I am passionate about machine learning, deep learning, and data science, and I enjoy applying these techniques to solve real-world problems. Below is a summary of some of my most significant projects.
 
-- ⚡ **Check out my latest projects**:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=technoyloquesurja&label=Profile%20views&color=0e75b6&style=flat" alt="contador" /> </p>
 
-1. [CanceRClassif](https://github.com/estebancalle/Cancerclassif)
-Webapp for Cancer Classification. Classify RNA-Seq samples of your patients, at a binary level: Tumors or Normals and at a multiclass level: distinguish between 15 different types of cancer included in TCGA database.
+# ⚡ **CanceRClassif Webapp: End-to-End Machine Learning for Cancer Classification**
 
-    **Technologies used**: R, Caret, Shiny, Golem, css.
+**Project Description:** An end-to-end machine learning project that culminates in a web application designed to classify and detect tumors in RNA-Seq tissue samples.
 
-2. [Cancer Classification Pipeline](https://github.com/estebancalle/tcga_cancer_classification).
-This project uses RNA-Seq sequences to classify cancer types using Machine Learning Learning.
-    
-    **Technologies used**: R, Caret, Tensorflow, Keras.
+**Pipeline:** Comprehensive pipeline from data extraction, preprocessing, and feature selection to model training and evaluation. It encompasses data handling, model development, and deployment, offering practical applications in genomics and data science.
 
-    **Data Science and Machine learning methods**: Extraction, Transform, Preprocessing, standarization, Feature selection and extraction, EDA, Clustering, ML and DL algos.
+**Model:** Employs a Random Forest model optimized with Boruta for both binary (tumor or normal) and multiclass (15 types of cancer) classifications.
 
-- 📀 **Always listening**: Techno, Drum and Bass, Trance, Progressive
+**Results:** Provides detailed diagnostics and probability scores for accurate cancer classification.
+**Key Features:**
+- **Feature Selection:** Advanced algorithms to identify key genes for classification.
+- **Exploratory Data Analysis:** Utilizes techniques like t-SNE and UMAP to explore dataset structures.
+- **Model Integration:** Incorporates a Random Forest model with Boruta into the CanceRClassif Webapp, providing a robust tool for healthcare professionals.
+
+**Technologies Used:**
+- R, Caret
+- Shiny with Golem, CSS
+- TensorFlow, Keras
+- MLOps
+
+### GitHub Repositories
+- [CanceRClassif Webapp](https://github.com/estebancalle/Cancerclassif)
+- [RNA-Seq Cancer Classification Pipeline](https://github.com/estebancalle/tcga_cancer_classification)
+
+
+
+---
+
+# 📚 **Relevant Projects in Machine Learning and Deep Learning**
+## **🛡️Advanced Malware Detection with PySpark**
+  - **Description:** Detects malware in network traffic using PySpark for large-scale data processing and MLlib for machine learning. Classifies IPs as malicious or benign with a Random Forest model.
+  - **Technologies Used:** Python, PySpark, MLlib, Google Cloud Dataproc
+  - **GitHub Repository:** [Advanced Malware Detection with PySpark](https://github.com/estebancalle/advanced-malware-detection-pyspark)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,5 +70,4 @@ This project uses RNA-Seq sequences to classify cancer types using Machine Learn
 </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estebancalle&show_icons=true&locale=en&layout=compact" alt="technoyloquesurja" /></p>
 
