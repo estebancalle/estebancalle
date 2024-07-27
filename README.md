@@ -7,9 +7,9 @@ I am passionate about machine learning, deep learning, and data science, and I e
 
 # ⚡ **CanceRClassif Webapp: End-to-End Machine Learning for Cancer Classification**
 
-**Project Description:** An end-to-end machine learning project that culminates in a web application designed to classify and detect tumors in RNA-Seq tissue samples.
+**Project description:** An end-to-end machine learning project that culminates in a web application designed to classify and detect tumors in RNA-Seq tissue samples.
 
-**Pipeline:** Comprehensive pipeline from data extraction, preprocessing, and feature selection to model training and evaluation. It encompasses data handling, model development, and deployment, offering practical applications in genomics and data science.
+**Pipeline:** Includes a comprehensive pipeline from data extraction, preprocessing, and feature selection to model training and evaluation. It encompasses data handling, model development, and deployment, offering practical applications in genomics and data science.
 
 **Model:** Employs a Random Forest model optimized with Boruta for both binary (tumor or normal) and multiclass (15 types of cancer) classifications.
 
@@ -38,7 +38,17 @@ I am passionate about machine learning, deep learning, and data science, and I e
   - **Description:** Detects malware in network traffic using PySpark for large-scale data processing and MLlib for machine learning. Classifies IPs as malicious or benign with a Random Forest model.
   - **Technologies Used:** Python, PySpark, MLlib, Google Cloud Dataproc
   - **GitHub Repository:** [Advanced Malware Detection with PySpark](https://github.com/estebancalle/advanced-malware-detection-pyspark)
-
+## 🧹 **Comparative Data Wrangling Techniques and EDAs**
+  - **Description:** A comprehensive collection of notebooks demonstrating various data wrangling techniques using R, Python, and SQL. This project compares the functionalities and performance of different tools for data manipulation and transformation, and also includes examples of how to perform exploratory data analysis (EDA). 
+  - **Notebooks Included:**
+    - **Comparative Data Wrangling: R vs Python**
+      - **Libraries Covered:** R (dplyr, data.table), Python (pandas, polars, siuba, ibis, duckdb)
+      - **Overview:** Compares and contrasts data manipulation methods using both R and Python libraries.
+      - **HTML Preview:** [View Notebook](https://htmlpreview.github.io/?https://github.com/estebancalle/data-wrangling-and-eda/blob/main/Data_manipulation_libraries_Dplyr_Polars_Pandas_ibis_Siuba.html)
+    - **SQL Tutorial**
+      - **Overview:** A detailed tutorial on using SQL for data wrangling and manipulation, covering basic to advanced queries.
+      - **HTML Preview:** [View Notebook](https://htmlpreview.github.io/?https://github.com/estebancalle/data-wrangling-and-eda/blob/main/SQL-TUTORIAL.html)
+    - **EDA notebooks: Work in progress.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
