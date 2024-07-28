@@ -34,10 +34,20 @@ I am passionate about machine learning, deep learning, and data science, and I e
 ---
 
 # 📚 **Relevant Projects in Machine Learning and Deep Learning**
+
 ## **🛡️Advanced Malware Detection with PySpark**
   - **Description:** Detects malware in network traffic using PySpark for large-scale data processing and MLlib for machine learning. Classifies IPs as malicious or benign with a Random Forest model.
   - **Technologies Used:** Python, PySpark, MLlib, Google Cloud Dataproc
   - **GitHub Repository:** [Advanced Malware Detection with PySpark](https://github.com/estebancalle/advanced-malware-detection-pyspark)
+
+## 🗣️ **NLP Exploration with Hugging Face**
+- **Description:** An exploration of NLP techniques using the Hugging Face library, including sentiment analysis, text generation, and question answering. This project demonstrates how to leverage Hugging Face pipelines for various NLP tasks and integrates advanced models to enhance text processing capabilities.
+- **Mini Projects Included:**
+  - **IMDB Movie Reviews Classification:** Fine-tuning a model on the IMDB dataset for sentiment classification.
+  - **arXiv Research Paper Summarization:** Using the arXiv API to fetch research papers and summarizing their abstracts with Hugging Face models.
+- **Technologies Used:** Python, Hugging Face Transformers.
+- **GitHub Repository:** [NLP Exploration with Hugging Face](https://github.com/estebancalle/NLP-Exploration/tree/main)
+
 ## 🧹 **Comparative Data Wrangling Techniques and EDAs**
   - **Description:** A comprehensive collection of notebooks demonstrating various data wrangling techniques using R, Python, and SQL. This project compares the functionalities and performance of different tools for data manipulation and transformation, and also includes examples of how to perform exploratory data analysis (EDA). 
   - **Notebooks Included:**
