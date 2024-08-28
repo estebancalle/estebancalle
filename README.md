@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esteban Calle</h1>
 <h3 align="center">Data Scientist and Bioinformatician from Madrid, Spain</h3>
 
-I am passionate about machine learning, deep learning, and data science, and I enjoy applying these techniques to solve real-world problems. Below is a summary of some of my most significant projects.
+I am a passionate Data Scientist and Machine Learning enthusiast with solid experience in bioinformatics, biostatistics, metagenomics, and the music industry. I enjoy applying machine learning, deep learning, and data science techniques to solve real-world problems. Below is a summary of some of my most significant projects
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technoyloquesurja&label=Profile%20views&color=0e75b6&style=flat" alt="contador" /> </p>
 
