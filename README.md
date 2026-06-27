@@ -72,9 +72,10 @@ End-to-end ML pipeline for tumor classification from RNA-Seq data. Random Forest
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Caret](https://img.shields.io/badge/Caret-1A1A2E?style=for-the-badge&logoColor=white)
+![Boruta](https://img.shields.io/badge/Boruta-6A0DAD?style=for-the-badge&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=for-the-badge&logo=tidyverse&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-2D6A4F?style=for-the-badge&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-4B92DB?style=for-the-badge&logo=rstudio&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 🛡️ [Malware Detection with PySpark](https://github.com/estebancalle/advanced-malware-detection-pyspark)
 Scalable malware detection from network traffic logs using distributed computing. Random Forest classifier on 400k+ records processed with PySpark and MLlib on GCP Dataproc.
