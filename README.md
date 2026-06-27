@@ -1,93 +1,56 @@
-<h1 align="center">Hi 👋, I'm Esteban Calle</h1>
-<h3 align="center">Data Scientist and Bioinformatician from Madrid, Spain</h3>
+<h1 align="center">Hi, I'm Esteban 👋</h1>
+<h3 align="center">Data Scientist · ML · NLP & LLMs · Generative AI · Madrid</h3>
 
-I am a passionate Data Scientist and Machine Learning enthusiast with solid experience in bioinformatics, biostatistics, metagenomics, and the music industry. I enjoy applying machine learning, deep learning, and data science techniques to solve real-world problems. Below is a summary of some of my most significant projects
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=technoyloquesurja&label=Profile%20views&color=0e75b6&style=flat" alt="contador" /> </p>
-
-# ⚡ **CanceRClassif Webapp: End-to-End Machine Learning for Cancer Classification**
-
-**Project description:** An end-to-end machine learning project that culminates in a web application designed to classify and detect tumors in RNA-Seq tissue samples.
-
-**Pipeline:** Includes a comprehensive pipeline from data extraction, preprocessing, and feature selection to model training and evaluation. It encompasses data handling, model development, and deployment, offering practical applications in genomics and data science.
-
-**Model:** Employs a Random Forest model optimized with Boruta for both binary (tumor or normal) and multiclass (15 types of cancer) classifications.
-
-**Results:** Provides detailed diagnostics and probability scores for accurate cancer classification.
-**Key Features:**
-- **Feature Selection:** Advanced algorithms to identify key genes for classification.
-- **Exploratory Data Analysis:** Utilizes techniques like t-SNE and UMAP to explore dataset structures.
-- **Model Integration:** Incorporates a Random Forest model with Boruta into the CanceRClassif Webapp, providing a robust tool for healthcare professionals.
-
-**Technologies Used:**
-- R, Caret
-- Shiny with Golem, CSS
-- TensorFlow, Keras
-- MLOps
-
-### GitHub Repositories
-- [CanceRClassif Webapp](https://github.com/estebancalle/Cancerclassif)
-- [RNA-Seq Cancer Classification Pipeline](https://github.com/estebancalle/tcga_cancer_classification)
-
-
+<p align="center">
+  <a href="https://linkedin.com/in/esteban-calle-fernandez">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 📚 **Relevant Projects in Machine Learning and Deep Learning**
+## 🧠 About me
 
-## **🛡️Advanced Malware Detection with PySpark**
-  - **Description:** Detects malware in network traffic using PySpark for large-scale data processing and MLlib for machine learning. Classifies IPs as malicious or benign with a Random Forest model.
-  - **Technologies Used:** Python, PySpark, MLlib, Google Cloud Dataproc
-  - **GitHub Repository:** [Advanced Malware Detection with PySpark](https://github.com/estebancalle/advanced-malware-detection-pyspark)
+Data Scientist with 2+ years of experience building end-to-end NLP and LLM pipelines for real clients across strategic communications, healthcare, and retail.
 
-## 🗣️ **NLP Exploration with Hugging Face**
-- **Description:** An exploration of NLP techniques using the Hugging Face library, including sentiment analysis, text generation, and question answering. This project demonstrates how to leverage Hugging Face pipelines for various NLP tasks and integrates advanced models to enhance text processing capabilities.
-- **Mini Projects Included:**
-  - **IMDB Movie Reviews Classification:** Fine-tuning a model on the IMDB dataset for sentiment classification.
-  - **arXiv Research Paper Summarization:** Using the arXiv API to fetch research papers and summarizing their abstracts with Hugging Face models.
-- **Technologies Used:** Python, Hugging Face Transformers.
-- **GitHub Repository:** [NLP Exploration with Hugging Face](https://github.com/estebancalle/NLP-Exploration/tree/main)
+I specialize in turning unstructured data into actionable insights — combining text mining, topic modeling, sentiment analysis, and generative AI to solve real business problems. I've processed datasets of 400,000+ records and delivered solutions directly consumed by external clients.
 
-## 🧹 **Comparative Data Wrangling Techniques and EDAs**
-  - **Description:** A comprehensive collection of notebooks demonstrating various data wrangling techniques using R, Python, and SQL. This project compares the functionalities and performance of different tools for data manipulation and transformation, and also includes examples of how to perform exploratory data analysis (EDA). 
-  - **Notebooks Included:**
-    - **Comparative Data Wrangling: R vs Python**
-      - **Libraries Covered:** R (dplyr, data.table), Python (pandas, polars, siuba, ibis, duckdb)
-      - **Overview:** Compares and contrasts data manipulation methods using both R and Python libraries.
-      - **HTML Preview:** [View Notebook](https://htmlpreview.github.io/?https://github.com/estebancalle/data-wrangling-and-eda/blob/main/Data_manipulation_libraries_Dplyr_Polars_Pandas_ibis_Siuba.html)
-    - **SQL Tutorial**
-      - **Overview:** A detailed tutorial on using SQL for data wrangling and manipulation, covering basic to advanced queries.
-      - **HTML Preview:** [View Notebook](https://htmlpreview.github.io/?https://github.com/estebancalle/data-wrangling-and-eda/blob/main/SQL-TUTORIAL.html)
-    - **EDA notebooks: Work in progress.**
+I see the Data Scientist role evolving toward a hybrid profile: deep in ML and NLP, fluent in LLMs, and capable of building and shipping end-to-end solutions. That's the direction I'm building toward.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/esteban-calle-fern%C3%A1ndez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg" alt="R" width="40" height="40"/> 
-<a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/tidyverse.svg" alt="tidyverse" width="40" height="40"/> </a> 
-<a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40"/> </a> 
-<a href="https://dplyr.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://dplyr.tidyverse.org/logo.png" alt="dplyr" width="40" height="40"/> </a> 
-<a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="https://shiny.posit.co/images/shiny-solo.png" alt="bash" width="40" height="40"/> </a> 
+## 🛠️ Core stack
 
+| Area | Technologies |
+|------|-------------|
+| **Languages** | Python · R · SQL · Bash |
+| **NLP & LLMs** | Hugging Face · spaCy · BERTopic · LDA · LangChain · Instructor · Prompt Engineering · Zero/Few-shot Classification |
+| **ML** | Scikit-learn · XGBoost · LightGBM · TensorFlow · Keras · PyTorch · Tidymodels · MLflow |
+| **Data & Viz** | EDA · Pandas · Polars · Tidyverse · Quarto · Looker Studio · Power BI |
+| **Engineering** | GCP (BigQuery, Cloud Storage) · FastAPI · Docker · ETL pipelines · Airflow |
+| **Web & Scraping** | React · FastAPI · Playwright · Selenium · BeautifulSoup |
+| **Databases** | PostgreSQL · MySQL · MongoDB · SQLite |
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
+---
 
-</p>
+## 🚀 Featured projects
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="CSS" width="40" height="40"/> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="CSS" width="40" height="40"/> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="R" width="40" height="40"/> 
-<a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/> 
-</a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+### 🔬 [CanceRClassif Webapp](https://github.com/estebancalle/Cancerclassif)
+End-to-end ML pipeline for tumor classification from RNA-Seq data. Random Forest + Boruta feature selection for binary and multiclass (15 cancer types) classification. Deployed as a Shiny web app.
+`R` `Caret` `Shiny` `TensorFlow` `Keras` `MLOps`
 
+### 🛡️ [Malware Detection with PySpark](https://github.com/estebancalle/advanced-malware-detection-pyspark)
+Scalable malware detection from network traffic logs using distributed computing. Random Forest classifier on 400k+ records processed with PySpark and MLlib on GCP Dataproc.
+`Python` `PySpark` `MLlib` `GCP Dataproc`
 
+### 🗣️ [NLP Exploration with Hugging Face](https://github.com/estebancalle/NLP-Exploration/tree/main)
+Sentiment classification, automatic summarization, and text generation using Hugging Face Transformers. Includes fine-tuning on IMDB and arXiv paper summarization.
+`Python` `Hugging Face` `Transformers` `NLP`
+
+### 🧹 [Comparative Data Wrangling & EDA](https://github.com/estebancalle/data-wrangling-and-eda)
+Comprehensive comparison of data manipulation tools across R and Python. Covers dplyr, data.table, pandas, polars, DuckDB, and SQL with real datasets.
+`R` `Python` `pandas` `polars` `dplyr` `SQL`
+
+---
+
+*More projects coming soon — including a full-stack social media intelligence platform and a production-ready RAG system.*
